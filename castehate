@@ -4,53 +4,53 @@
    "author":"Natsuno Yuzo",
    "cover":"https://cdn.discordapp.com/attachments/697831201620230244/794684078204125214/GGScansBL_Castehate_v02_ch06_cover_a.png",
    "chapters":{
-      "6":{
-         "title":"Chapter 1",
+      "3":{
+         "title":"Chapter 6",
          "volume":"1",
          "groups":{
-            "Good Girls Scan BL":"/proxy/api/imgur/chapter/HImVgra/"
+            "GGScansBL":"/proxy/api/imgur/chapter/f3xYboa/"
          },
-         "last_updated":"1632056991"
+         "last_updated":"1626713100"
       },
-       "7":{
-         "title":"Chapter 2",
+       "2":{
+         "title":"Chapter 7",
          "volume":"1",
          "groups":{
-            "Good Girls Scan BL":"/proxy/api/imgur/chapter/97xq79e/"
+            "GGScansBL":"/proxy/api/imgur/chapter/OnhK2yw/"
          },
-         "last_updated":"1632056991"
+         "last_updated":"1626713100"
       },
-       "8":{
-         "title":"Chapter 3",
+       "3":{
+         "title":"Chapter 8",
          "volume":"1",
          "groups":{
-            "Good Girls Scan BL":"/proxy/api/imgur/chapter/LJzaHlh/"
+            "GGScansBL":"/proxy/api/imgur/chapter/Hi9Vffs/"
          },
-         "last_updated":"1632056991"
-               },
-       "9":{
-         "title":"Chapter 4",
+         "last_updated":"1626713100"
+      },
+       "4":{
+         "title":"Chapter 9",
          "volume":"1",
          "groups":{
-            "Good Girls Scan BL":"/proxy/api/imgur/chapter/WdBW42d/"
+            "GGScansBL":"/proxy/api/imgur/chapter/OU1Wa7e/"
          },
-         "last_updated":"1632056991"
-               },
-       "10":{
-         "title":"Chapter 5",
+         "last_updated":"1632789521"
+      },
+       "4":{
+         "title":"Chapter 10",
          "volume":"1",
          "groups":{
-            "Good Girls Scan BL":"/proxy/api/imgur/chapter/ldoQ7bL/"
+            "GGScansBL":"/proxy/api/imgur/chapter/OU1Wa7e/"
          },
-         "last_updated":"1632056991"
-               },
-       "5.5":{
-         "title":"Extra",
+         "last_updated":"1632789521"
+      },
+       "4":{
+         "title":"Chapter 11",
          "volume":"1",
          "groups":{
-            "Good Girls Scan BL":"/proxy/api/imgur/chapter/vL33lTg/"
+            "GGScansBL":"/proxy/api/imgur/chapter/CMVUQta/"
          },
-         "last_updated":"1632056991"
-               }
+         "last_updated":"1632789521"
       }
+   }
 }
